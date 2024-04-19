@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calculadora_IMC_Idade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fce98a1cc9963ad99d112a2fcf01d2a9f10c2d0d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9ebd2d1040e383d68c6b3ef438dc571067ee017")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calculadora_IMC_Idade")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calculadora_IMC_Idade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
