@@ -1,0 +1,15 @@
+/home/luan/Documentos/Git/C-Sharp_Projects/Calculadora_IMC_Idade/obj/Debug/net8.0/Calculadora_IMC_Idade.GeneratedMSBuildEditorConfig.editorconfig
+/home/luan/Documentos/Git/C-Sharp_Projects/Calculadora_IMC_Idade/obj/Debug/net8.0/Calculadora_IMC_Idade.AssemblyInfoInputs.cache
+/home/luan/Documentos/Git/C-Sharp_Projects/Calculadora_IMC_Idade/obj/Debug/net8.0/Calculadora_IMC_Idade.AssemblyInfo.cs
+/home/luan/Documentos/Git/C-Sharp_Projects/Calculadora_IMC_Idade/obj/Debug/net8.0/Calculadora_IMC_Idade.csproj.CoreCompileInputs.cache
+/home/luan/Documentos/Git/C-Sharp_Projects/Calculadora_IMC_Idade/obj/Debug/net8.0/Calculadora_IMC_Idade.sourcelink.json
+/home/luan/Documentos/Git/C-Sharp_Projects/Calculadora_IMC_Idade/bin/Debug/net8.0/Calculadora_IMC_Idade
+/home/luan/Documentos/Git/C-Sharp_Projects/Calculadora_IMC_Idade/bin/Debug/net8.0/Calculadora_IMC_Idade.deps.json
+/home/luan/Documentos/Git/C-Sharp_Projects/Calculadora_IMC_Idade/bin/Debug/net8.0/Calculadora_IMC_Idade.runtimeconfig.json
+/home/luan/Documentos/Git/C-Sharp_Projects/Calculadora_IMC_Idade/bin/Debug/net8.0/Calculadora_IMC_Idade.dll
+/home/luan/Documentos/Git/C-Sharp_Projects/Calculadora_IMC_Idade/bin/Debug/net8.0/Calculadora_IMC_Idade.pdb
+/home/luan/Documentos/Git/C-Sharp_Projects/Calculadora_IMC_Idade/obj/Debug/net8.0/Calculadora_IMC_Idade.dll
+/home/luan/Documentos/Git/C-Sharp_Projects/Calculadora_IMC_Idade/obj/Debug/net8.0/refint/Calculadora_IMC_Idade.dll
+/home/luan/Documentos/Git/C-Sharp_Projects/Calculadora_IMC_Idade/obj/Debug/net8.0/Calculadora_IMC_Idade.pdb
+/home/luan/Documentos/Git/C-Sharp_Projects/Calculadora_IMC_Idade/obj/Debug/net8.0/Calculadora_IMC_Idade.genruntimeconfig.cache
+/home/luan/Documentos/Git/C-Sharp_Projects/Calculadora_IMC_Idade/obj/Debug/net8.0/ref/Calculadora_IMC_Idade.dll

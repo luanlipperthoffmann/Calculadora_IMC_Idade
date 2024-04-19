@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculadora_IMC_Idade", "Calculadora_IMC_Idade.csproj", "{265631A2-0B88-4070-AB7D-11A0EC5E5F6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{265631A2-0B88-4070-AB7D-11A0EC5E5F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265631A2-0B88-4070-AB7D-11A0EC5E5F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265631A2-0B88-4070-AB7D-11A0EC5E5F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265631A2-0B88-4070-AB7D-11A0EC5E5F6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {932A68F9-64EC-4594-B78C-3E39A1B19B99}
+	EndGlobalSection
+EndGlobal
